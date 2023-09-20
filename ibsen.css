@@ -25,3 +25,22 @@
     color: chartreuse;
     font-style: normal;
 }
+
+.table{
+    color: black;
+    padding: 20px 20px;
+    margin-left:35%;
+    margin-right: 35%;
+    margin-bottom: 30%;
+    border-style: solid;
+    border-width: 0.1mm;
+    border-radius: 1mm;
+    text-align: center;
+}
+
+.table tr:nth-child(even){
+    background-color: brown;
+}
+.table tr:nth-child(odd){
+    background-color: rgb(102, 242, 14);
+}
