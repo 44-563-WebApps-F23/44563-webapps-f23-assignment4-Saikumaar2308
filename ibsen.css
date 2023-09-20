@@ -13,9 +13,21 @@
 
 }
 
-.name{
+.dircetion:hover{
+    background-color: darkred;
+    color: azure;
+}
+
+.SOLNESS{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: large;
     color: darkblue;
     font-style: inherit;
+}
+
+.KAIA{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: chartreuse;
+    font-style: normal;
 }
