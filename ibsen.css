@@ -36,7 +36,7 @@
     background-color: black;
     border-width: 0.5mm;
     border-radius: o.5mm;
-    text-align: center;
+    text-align:end;
 }
 
 .table tr:nth-child(even){
