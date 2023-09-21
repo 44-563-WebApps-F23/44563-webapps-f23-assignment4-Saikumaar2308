@@ -5,7 +5,7 @@
     font-style: italic;
 }
 
-.dircetion{
+.direction{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     color: brown;
@@ -22,8 +22,14 @@
 .name_kAIA{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-    color: chartreuse;
+    color: rgb(255, 72, 0);
     font-style: normal;
+}
+
+h5:hover{
+    text-shadow: 2px 2px 4px #000000;
+    width: 12%;
+    border: 1pt solid #0ff329;
 }
 
 .table{
